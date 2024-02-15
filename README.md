@@ -1,15 +1,21 @@
 ### Hi there 👋
 
-**tanmaygarg2911/tanmaygarg2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tanmay Garg!
 
-Here are some ideas to get you started:
+## About Me
+🔭 I’m student at VIT Bhopal pursuing my BTech in Computer Science and Technology, and also pursuing my dual degree IIT Madras of BSc in Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 I’m currently learning Python, Machine Learning, Analytics, Solidity and Software Developement.
+
+👯 I’m looking to collaborate on competitive programming and other interesting projects.
+
+🤔 I’m looking for help with block chain scalability and sutainability for large scale of transactions.
+
+💬 Ask me about Python, Machine Learning, Statistics and Mathamatics.
+
+📫 How to reach me: tanmay.garg2021@vitbhopal.ac.in or Linkden: https://www.linkedin.com/in/tanmay-garg-56b338230/-
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I published a chapter on Transforming Agriculture Through Cloud and IoT: A Comprehensive Study on Smart Farming.
 
