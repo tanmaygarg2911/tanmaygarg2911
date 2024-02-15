@@ -19,3 +19,10 @@ I'm Tanmay Garg!
 
 ⚡ Fun fact: I published a chapter on Transforming Agriculture Through Cloud and IoT: A Comprehensive Study on Smart Farming.
 
+## Skills
+
+- **Programming Languages:** Python, JavaScript
+- **Web Development:** HTML, CSS
+- **Blockchain:** Solidity
+- **Machine Learning**
+- **Competitive Programming**
