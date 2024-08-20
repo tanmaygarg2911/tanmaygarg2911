@@ -13,7 +13,7 @@ I'm Tanmay Garg!
 
 💬 Ask me about Python, Machine Learning, Statistics and Mathamatics.
 
-📫 How to reach me: tanmay.garg2021@vitbhopal.ac.in or Linkden: https://www.linkedin.com/in/tanmay-garg-56b338230/-
+📫 How to reach me: gargtanmay2911@gmail.com or Linkden: https://www.linkedin.com/in/tanmay-garg-56b338230/-
 
 😄 Pronouns: He/Him
 
