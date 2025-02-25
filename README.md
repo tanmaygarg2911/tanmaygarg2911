@@ -3,9 +3,9 @@
 ## 🚀 About Me  
 I’m a **Data Science & Computer Vision Enthusiast 🤖** passionate about solving real-world problems with **Machine Learning 📊, AI 🧠, and Software Development 💻**.  
 
-At **Arya.ag**, I optimized **image processing workflows 🖼️**, enhancing **seed image quality 🌱** and improving processing efficiency. My internship at **Tata Power Delhi Distribution Limited ⚡** involved **clustering and anomaly detection models 📉**, showcasing my ability to **handle large datasets 📂 and apply deep learning**.  
+I have experience in optimizing **image processing workflows 🖼️**, enhancing **image quality 🌱**, **clsutering and abnormality detection** and improving processing efficiency.  
 
-I have hands-on experience with **OpenCV 🏞️, TensorFlow 🔥, and PyTorch 🚀**, along with **Python frameworks like Flask 🏗️ and Django 🌐**. I am also well-versed in **cloud platforms ☁️ (AWS, Azure)** for scalable solutions ⚙️. My research work includes **academic publications 📚 in Cloud Computing ☁️ and AgriTech 🌾**, demonstrating my ability to merge technology with impactful applications.  
+I have hands-on experience with **OpenCV 🏞️, TensorFlow 🔥, and PyTorch 🚀**, along with **Python frameworks like Flask 🏗️ and Django 🌐**. I am also well-versed in **cloud platforms ☁️ (AWS, Azure)** for scalable solutions ⚙️. My research work includes [**academic publications 📚 in Cloud Computing ☁️ and AgriTech 🌾**](https://www.scopus.com/authid/detail.uri?authorId=58630454800), demonstrating my ability to merge technology with impactful applications.  
 
 Currently, I am pursuing my **BS in Data Science & Applications 🎓 at IIT Madras**, constantly exploring **AI advancements 🤖** and innovative solutions. I thrive on problem-solving 💡, research 📑, and collaboration 🤝 to build scalable and efficient tech solutions ✅.  
 
