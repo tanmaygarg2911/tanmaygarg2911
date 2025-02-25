@@ -49,7 +49,7 @@ Currently, I am pursuing my **BS in Data Science & Applications 🎓 at IIT Madr
 ---
 
 ### ⚡ Fun Fact  
-💡 I love exploring how AI & Blockchain can revolutionize AgriTech 🌾 and Cloud Computing ☁️!  
+💡 I love exploring how AI & Blockchain can revolutionize AgriTech 🌾, Cloud Computing ☁️ and Finance 💸!  
 
 ---
 
