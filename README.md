@@ -1,28 +1,56 @@
-### Hi there 👋
+Here’s a refined and more structured version of your GitHub **README.md** to improve readability and make it more engaging:  
 
-I'm Tanmay Garg!
+---
 
-## About Me
-🔭 I’m student at VIT Bhopal pursuing my BTech in Computer Science and Technology, and also pursuing my dual degree IIT Madras of BSc in Data Science.
+# Hi there! 👋 I'm Tanmay Garg  
 
-🌱 I’m currently learning Python, Machine Learning, Analytics, Solidity and Software Developement.
+## 🚀 About Me  
+I’m a **Data Science & Computer Vision Enthusiast 🤖** passionate about solving real-world problems with **Machine Learning 📊, AI 🧠, and Software Development 💻**.  
 
-👯 I’m looking to collaborate on competitive programming and other interesting projects.
+At **Arya.ag**, I optimized **image processing workflows 🖼️**, enhancing **seed image quality 🌱** and improving processing efficiency. My internship at **Tata Power Delhi Distribution Limited ⚡** involved **clustering and anomaly detection models 📉**, showcasing my ability to **handle large datasets 📂 and apply deep learning**.  
 
-🤔 I’m looking for help with block chain scalability and sutainability for large scale of transactions.
+I have hands-on experience with **OpenCV 🏞️, TensorFlow 🔥, and PyTorch 🚀**, along with **Python frameworks like Flask 🏗️ and Django 🌐**. I am also well-versed in **cloud platforms ☁️ (AWS, Azure)** for scalable solutions ⚙️. My research work includes **academic publications 📚 in Cloud Computing ☁️ and AgriTech 🌾**, demonstrating my ability to merge technology with impactful applications.  
 
-💬 Ask me about Python, Machine Learning, Statistics and Mathamatics.
+Currently, I am pursuing my **BS in Data Science & Applications 🎓 at IIT Madras**, constantly exploring **AI advancements 🤖** and innovative solutions. I thrive on problem-solving 💡, research 📑, and collaboration 🤝 to build scalable and efficient tech solutions ✅.  
 
-📫 How to reach me: gargtanmay2911@gmail.com or Linkden: https://www.linkedin.com/in/tanmay-garg-56b338230/-
+---
 
-😄 Pronouns: He/Him
+## 🛠️ Skills  
 
-⚡ Fun fact: I published a chapter on Transforming Agriculture Through Cloud and IoT: A Comprehensive Study on Smart Farming.
+### **🚀 Programming Languages**  
+- Python 🐍 | JavaScript 🖥️  
 
-## Skills
+### **🌐 Web Development**  
+- HTML & CSS 🎨  
+- Django & Flask 🏗️  
 
-- **Programming Languages:** Python, JavaScript
-- **Web Development:** HTML, CSS
-- **Blockchain:** Solidity
-- **Machine Learning**
-- **Competitive Programming**
+### **📊 Data Science & Machine Learning**  
+- Computer Vision & Image Processing 🖼️  
+- Deep Learning & AI 🤖  
+- Time Series Analysis ⏳  
+- Data Engineering & ETL ⚡  
+
+### **☁️ Cloud & DevOps**  
+- AWS | Azure | Google Cloud  
+- Docker 🐳 & Kubernetes ☸️  
+- CI/CD Pipelines 🚀  
+
+### **🏆 Other Interests**  
+- Blockchain & Solidity 🔗  
+- Competitive Programming 🏆  
+
+---
+
+## 📫 Connect with Me  
+- **LinkedIn:** [Tanmay Garg](https://www.linkedin.com/in/tanmay-garg-56b338230)  
+- **GitHub:** [tanmaygarg2911](https://github.com/tanmaygarg2911)  
+- **Email:** gargtanmay2911@gmail.com  
+
+---
+
+### ⚡ Fun Fact  
+💡 I love exploring how AI & Blockchain can revolutionize AgriTech 🌾 and Cloud Computing ☁️!  
+
+---
+
+This version keeps your original content but improves structure, readability, and engagement. Let me know if you'd like any further refinements! 🚀
