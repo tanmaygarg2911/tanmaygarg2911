@@ -1,7 +1,3 @@
-Here’s a refined and more structured version of your GitHub **README.md** to improve readability and make it more engaging:  
-
----
-
 # Hi there! 👋 I'm Tanmay Garg  
 
 ## 🚀 About Me  
@@ -50,7 +46,3 @@ Currently, I am pursuing my **BS in Data Science & Applications 🎓 at IIT Madr
 
 ### ⚡ Fun Fact  
 💡 I love exploring how AI & Blockchain can revolutionize AgriTech 🌾, Cloud Computing ☁️ and Finance 💸!  
-
----
-
-This version keeps your original content but improves structure, readability, and engagement. Let me know if you'd like any further refinements! 🚀
